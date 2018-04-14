@@ -8,4 +8,8 @@ public class SampleArrayList {
 		a.add("Mahesh");
 		System.out.println(a);
 	}
+
+	void show() {
+		System.out.println("Show method");
+	}
 }
